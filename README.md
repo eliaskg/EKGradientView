@@ -1,4 +1,4 @@
-EKShakeAnimation
+EKGradientView
 ==========
 
 EKGradientView is a class for displaying linear gradients without having to write any CG code. It's made for the [Cappuccino](http://www.cappuccino.org) framework.
